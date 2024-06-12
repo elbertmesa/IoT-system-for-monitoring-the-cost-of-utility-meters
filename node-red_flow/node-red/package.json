@@ -1,0 +1,17 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-airtable": "~0.1.2",
+        "node-red-contrib-http-custom-port": "0.0.8",
+        "node-red-contrib-influxdb": "~0.6.1",
+        "node-red-contrib-tableify": "0.0.2",
+        "node-red-contrib-ui-etable": "~4.6.3",
+        "node-red-dashboard": "~3.1.7",
+        "node-red-node-mui-etable": "~0.1.5",
+        "node-red-node-sqlite": "~1.0.3",
+        "node-red-node-ui-table": "~0.3.12"
+    }
+}
